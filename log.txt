@@ -1,0 +1,29 @@
+commit 4ff27c9ab7a4cf61ad7851376068ba9660d39616
+Author: Evan You <yyx990803@gmail.com>
+Date:   Fri May 6 15:51:38 2016 -0400
+
+    remove v-else support for v-show
+
+commit d1abc2fe2e202d65f1ad8df229d55d17d026b349
+Author: Evan You <yyx990803@gmail.com>
+Date:   Thu May 5 19:11:15 2016 -0400
+
+    use eslint-config-vue
+
+commit 5ec42464727506933f66033007de293806effbd4
+Author: Blake Newman <blakenoodles@gmail.com>
+Date:   Fri May 6 00:08:12 2016 +0100
+
+    updated dependencies to latest, with better control ranges (#2780)
+
+commit 5516f37b8ad9ab840c4cd36de2e4d5430e6758c4
+Author: Evan You <yyx990803@gmail.com>
+Date:   Thu May 5 15:46:36 2016 -0400
+
+    improve batching strategy
+
+commit 9cc9393e73750943b9a254f80a02110144ee0288
+Author: Evan You <yyx990803@gmail.com>
+Date:   Thu May 5 14:46:30 2016 -0400
+
+    fix default slot fallback on whitespace
